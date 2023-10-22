@@ -1,0 +1,11 @@
+Overview
+Create a webpage of a Basic Code Editor using HTML, CSS, and Javascript.
+
+Instructions
+Code Editor should have a copy button, save button, and a lock/unlock button.
+Ensure the Code Editor includes basic features of indentation.
+All the buttons should be operational, with special emphasis on the functionality of the Copy and Lock/Unlock buttons.
+You have the freedom to choose between CSS and SCSS for styling, but it is preferable to utilize CSS.
+Code should be properly formatted and well-documented with appropriate comments.
+It is advised to use the BEM (Block, Element, Modifier) methodology for writing CSS.
+Any framework that utilizes HTML, CSS, and JavaScript, such as Vue.js, React.js, or a custom implementation, can be used for the project.
